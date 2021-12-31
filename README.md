@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @csher09
-- 👀 I’m interested in computers
-- 🌱 I’m currently learning Java
-- 📫 How to reach me
+2nd year comp eng student
