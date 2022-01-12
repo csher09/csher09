@@ -1,1 +1,1 @@
-2nd year comp eng student
+Second Year Computer Engineering Student
