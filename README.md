@@ -1,1 +1,1 @@
-Second Year Computer Engineering Student
+Third Year Electrical Engineering Student
